@@ -1,6 +1,8 @@
 CIRCUITO
 [![circuito-carro-autonomo.png](https://i.postimg.cc/L8nZFnWQ/circuito-carro-autonomo.png)](https://postimg.cc/jDYjzdty)
 [![diagama-de-flujo-carro-auitonomo1-0.png](https://i.postimg.cc/rwNNV0Bp/diagama-de-flujo-carro-auitonomo1-0.png)](https://postimg.cc/ZW0djRKk)
+
+
 Introduction and Project Overview
 This document provides a comprehensive technical breakdown of an autonomous vehicle project. The core objective was to transform a standard Porsche 911 remote control (RC) car into an autonomous platform capable of navigating a defined track for three complete laps without collision. This required significant structural modifications to the chassis, the integration of a custom electronic control system centered around the ESP32 microcontroller, and the implementation of an advanced environmental perception system using three ultrasonic sensors. The project falls within the category of engineering with significant structural and electronic design changes.
 
